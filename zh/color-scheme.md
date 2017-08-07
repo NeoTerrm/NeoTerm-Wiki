@@ -37,9 +37,9 @@ color-scheme: {
 *colors*：配色方案的具体实现，定义需要的颜色，`colors`中的颜色名如下表所示:
 |   属性名       | 说明           |
 | ------------- |:-------------:|
-|   background  | right-aligned |
-|   foreground  | centered      |
-|   cursor      | are net       |
+|   background  | 背景色         |
+|   foreground  | 文字颜色        |
+|   cursor      | 光标颜色        |
 |   color0      | are net       |
 |   color1      | are net       |
 |   color2      | are net       |
