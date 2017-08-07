@@ -1,4 +1,4 @@
 # NeoTerm Wiki 
 
-#### 维护者 & 贡献者
+#### Maintainers & Contributors
 * [Kiva](https://github.com/zt515)
