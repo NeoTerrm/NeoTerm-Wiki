@@ -35,6 +35,7 @@ color-scheme: {
 *name*：配色方案的名字，这里是 `Solarized Dark`。这个名字会被展示在 NeoTerm 的个性化设置中
 *versio*：配色方案的版本号，方便编写人员。不会被展示在 NeoTerm 中
 *colors*：配色方案的具体实现，定义需要的颜色，`colors`中的颜色名如下表所示:
+
 |   属性名       | 说明           |
 | ------------- |:-------------:|
 |   background  | 背景颜色        |
