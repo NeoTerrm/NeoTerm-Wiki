@@ -6,5 +6,5 @@
 * [概述](overview.md)
 * [NeoLang 语言](neo-lang.md)
 * [用户脚本](user-script.md)
-* [配色方案](color-schene.md)
+* [配色方案](color-scheme.md)
 
