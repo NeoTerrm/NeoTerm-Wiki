@@ -1,0 +1,21 @@
+{
+    "author": "Kiva",
+    "title": "NeoTerm Wiki",
+    "languages": ["en", "zh"],
+    "plugins": [ "theme-api" ],
+    "pluginsConfig": {
+        "theme-api": {
+            "languages": [
+                {
+                    "lang": "kotlin",
+                    "name": "Kotlin",
+                    "default": true
+                },
+                {
+                    "lang": "shell",
+                    "name": "shell"
+                }
+            ]
+        }
+    }
+}
