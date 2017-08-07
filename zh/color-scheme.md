@@ -37,22 +37,22 @@ color-scheme: {
 *colors*：配色方案的具体实现，定义需要的颜色，`colors`中的颜色名如下表所示:
 |   属性名       | 说明           |
 | ------------- |:-------------:|
-|   background  | 背景色         |
+|   background  | 背景颜色        |
 |   foreground  | 文字颜色        |
 |   cursor      | 光标颜色        |
-|   color0      | are net       |
-|   color1      | are net       |
-|   color2      | are net       |
-|   color3      | are net       |
-|   color4      | are net       |
-|   color5      | are net       |
-|   color6      | are net       |
-|   color7      | are net       |
-|   color8      | are net       |
-|   color9      | are net       |
-|   color10     | are net       |
-|   color11     | are net       |
-|   color12     | are net       |
-|   color13     | are net       |
-|   color14     | are net       |
-|   color15     | are net       |
+|   color0      | 黑色        |
+|   color1      | 红色       |
+|   color2      | 绿色       |
+|   color3      | 黄色       |
+|   color4      | 蓝色       |
+|   color5      | 洋红色       |
+|   color6      | 青色       |
+|   color7      | 白色       |
+|   color8      | 亮黑色       |
+|   color9      | 亮红色       |
+|   color10     | 亮绿色       |
+|   color11     | 亮黄色       |
+|   color12     | 亮蓝色       |
+|   color13     | 亮洋红色       |
+|   color14     | 亮青色       |
+|   color15     | 亮白色       |
