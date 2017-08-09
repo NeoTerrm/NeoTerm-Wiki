@@ -81,3 +81,6 @@ array: [1, "hello", {
     sub: [3, 1, 4]
 }]
 ```
+
+### 总结
+NeoLang 不仅学习成本低，而且开放程度高。通过 NeoLang，NeoTerm 可以达到一个新的高度。
