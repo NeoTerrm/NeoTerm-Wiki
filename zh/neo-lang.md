@@ -22,7 +22,7 @@ color-scheme: {
 在上面的例子中，我们创建了一个叫做 `color-scheme` 的 `块`(`block`)，在这个`块`中我们又定义了`name`和`version`以及`colors`三个`属性`(`attribute`)，`name`属性是个`字符串` (`string`)，`version`属性是`数字`(`number`)，`colors`属性又是一个`块`。
 
 ### 数据类型
-NeoLang 提供三种内建数据类型，分别是：
+NeoLang 提供四种内建数据类型，分别是：
 * `String` 字符串
 * `Number` 数字
 * `Block`  块
