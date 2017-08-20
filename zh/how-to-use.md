@@ -8,15 +8,15 @@
 
 ### 快捷键
 
-`ctrl` `shift` `v` : 粘贴
-`ctrl` `shift` `z` : 切换到前一个会话
-`ctrl` `shift` `x` : 切换到下一个会话
-`ctrl` `shift` `n` : 新建会话
-`ctrl` `shift` `f` : 切换全屏
-`ctrl` `shift` `+` : 放大字体
-`ctrl` `shift` `-` : 缩小字体
+`ctrl` `shift` `v` : 粘贴  
+`ctrl` `shift` `z` : 切换到前一个会话  
+`ctrl` `shift` `x` : 切换到下一个会话  
+`ctrl` `shift` `n` : 新建会话  
+`ctrl` `shift` `f` : 切换全屏  
+`ctrl` `shift` `+` : 放大字体  
+`ctrl` `shift` `-` : 缩小字体  
 
-`alt` `number` : 切换到对应的会话
+`alt` `number` : 切换到对应的会话  
 
 ### 常见问题（FAQ）
 
