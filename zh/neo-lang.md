@@ -8,7 +8,7 @@ NeoLang 是一门专为 NeoTerm 设计的领域专用语言（DSL），旨在提
 
 ### 概览
 为了尽可能的做到轻量化，NeoLang 只提供了描述数据的功能，并没有类似于函数或者其他高级语言里有的东西。一个NeoLang文件一般为以下模样：
-```css
+```js
 color-scheme: {
     name: "Default ColorScheme for NeoTerm"
     version: 1.1

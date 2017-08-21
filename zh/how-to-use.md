@@ -16,11 +16,11 @@
 `ctrl` `shift` `+` : 放大字体  
 `ctrl` `shift` `-` : 缩小字体  
 
-`alt` `number` : 切换到对应的会话  
+`alt` `<number>` : 切换到对应的会话  
 
 ### 常见问题（FAQ）
 
-#### 提示找不到 sh env
+#### 提示找不到 /bin/sh 或者 /usr/bin/env
 
 1. 安装 `neoterm-core`
 2. 执行 `neoterm-normalize-binary`（如： `neoterm-normalize-binary your_script.sh`）
