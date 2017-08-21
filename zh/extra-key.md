@@ -19,11 +19,11 @@ extra-key: {
     key: [
         {
             display: Quit
-            code: :q!
+            code: ":q!"
         },
         {
             display: Esc
-            code: <Esc>
+            code: "<Esc>"
         },
         ...
     ]
