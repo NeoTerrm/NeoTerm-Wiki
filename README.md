@@ -1,6 +1,6 @@
 # NeoTerm Wiki
 
-[English](https://github.com/NeoTerm/NeoTerm-Wiki/README-en.md)
+[English](https://github.com/NeoTerm/NeoTerm-Wiki/blob/master/README-en.md)
 
 这是 NeoTerm 的官方帮助和文档。
 
