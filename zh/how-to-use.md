@@ -4,7 +4,7 @@
 
 使用双指缩放来放大或者缩小终端字号大小。  
 
-在设置菜单中点击个性化选项，可以更换并预览你喜欢的字体。
+在设置菜单中点击个性化选项，可以更换并预览你喜欢的字体和配色方案。
 
 ### 快捷键
 
@@ -18,6 +18,10 @@
 
 `alt` `<number>` : 切换到对应的会话  
 
+### 特别说明
+* 请**不要**用 `root` 用户或 `sudo` 执行**任何有关软件包**的操作
+* 请不要尝试任何你不明白的命令
+
 ### 常见问题（FAQ）
 
 #### 提示找不到 /bin/sh 或者 /usr/bin/env
@@ -25,3 +29,11 @@
 1. 安装 `neoterm-core`
 2. 执行 `neoterm-normalize-binary`（如： `neoterm-normalize-binary your_script.sh`）
 
+#### dpkg 提示 no sh found in PATH
+1. 新建一个会话
+2. 执行 `cd ../usr/bin; ln -sf bash sh`
+3. 重试运行 `dpkg`
+
+#### 无法使用 ping 等基本命令
+1. 安装 `neoterm-core`
+2. 重试运行 `ping` 等
