@@ -2,6 +2,7 @@
 
 #### Maintainers & Contributors
 * [Kiva](https://github.com/zt515)
+* [BlindingDark](https://github.com/BlindingDark)
 
 #### Avaiable Package Source
 * http://neoterm.studio/
