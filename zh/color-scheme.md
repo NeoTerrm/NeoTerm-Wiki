@@ -11,7 +11,7 @@ NeoTerm 有丰富的自定义的选项，配色方案是其中之一。
 
 假定你已有 NeoLang 语言基础，如果没有，请先在左侧阅读 NeoLang 有关的文档。
 我们以下面这个例子进行分析（该示例来自于[NeoTerm源码](https://github.com/NeoTerm/NeoTerm/blob/master/app/src/main/assets/colors/SolarizedDark.nl)中的部分）：
-```css
+```js
 color-scheme: {
     name: "Solarized Dark"
     version: 1.1
