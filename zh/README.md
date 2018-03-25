@@ -5,9 +5,10 @@
 * [配色方案](color-scheme.md)
 
 #### 活跃的软件源地址
-* http://neoterm.studio/
-* https://mirrors-wan.geekpie.org/neoterm/
-* http://janyo.pw/neoterm (建设中)
+* http://193.112.47.241
+* http://neoterm.imkiva.com
+* http://neoterm.ckx-ily.cn
+* http://janyo.pw:82/kiva/neoterm
 
 #### 捐赠名单
 以下名单不分先后，不分金额大小
@@ -20,6 +21,7 @@
 * Cryt0r
 * Blinkding Dark
 * 浩哲
+* ...
 
 
 #### 本文档维护者 & 贡献者
